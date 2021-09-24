@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noImplicitReturns": false,
+        "noImplicitAny": false,
+        "skipLibCheck": false,
+        "strict": false,
+        "strictNullChecks": false,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        // "declarationDir": "dist",
+        // "allowJs": true,
+        "jsx": "react",
+        "module": "commonjs",
+        // "moduleResolution": "node",
+        // "target": "es6",
+        "lib": [
+            "dom",
+            "esnext"
+        ]
+    },
+    "esModuleInterop": true,
+    "exclude": [
+        "node_modules",
+        "dist",
+        "lib"
+    ]
+}
