@@ -16,7 +16,7 @@ module.exports = {
     extensions: [".js", ".jsx", ".ts", ".tsx"],
     alias: {
       "@": resolve(__dirname, 'src/'),
-      "&": resolve(__dirname, 'src/static'),
+      "&": resolve(__dirname, 'assets'),
       "~": resolve(__dirname, 'src/utils')
     }
   },
@@ -78,7 +78,7 @@ module.exports = {
         exclude: /.(html|less|css|sass|js|jsx|ts|tsx)$/,
         options:{
           limit: 10000,
-          name: 'img/[name].[ext]',
+          name: 'img/[name].[ext]'
         }
       }
     ],

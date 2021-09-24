@@ -1,15 +1,16 @@
 import React from "react";
 import './index.scss';
-import avate from "&/avatar.png";
-import smallImg from "&/small9k533x300.webp";
-const bizhi = require("&/bizhi.jpg");
+import avate from "&/img/avatar.png";
+import smallImg from "&/img/small9k533x300.webp";
+const bizhi = require("&/img/bizhi.jpg");
 
 export const Photo = () => {
-  console.log(avate);
-  console.log(smallImg);
+  console.log(bizhi);
   return (
     <div className="photo-wrap">
-      <img url="avate2" src="avate" alt="" />
+      <img src={avate} alt="" />
+      <img src={smallImg} alt="" />
+      <img src={bizhi.default} alt="" />
     </div>
   )
 }
