@@ -1,5 +1,29 @@
 const { resolve } = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
+const { ProgressPlugin } = require('webpack');
+
+const publicCss = [
+  {
+    loader: MiniCssExtractPlugin.loader,
+  },
+  'css-loader',
+  {
+    loader: 'postcss-loader',
+    options: {
+      postcssOptions: {
+        plugins: [
+          [
+            'postcss-preset-env',
+          ],
+        ],
+      },
+    },
+  },
+]
+
+
 
 module.exports = {
   mode: "development",
@@ -20,6 +44,7 @@ module.exports = {
       "~": resolve(__dirname, 'src/utils')
     }
   },
+  devtool: "inline-source-map",
   module: {
     rules: [
       {
@@ -62,23 +87,35 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        use: ['style-loader', 'css-loader']
+        exclude: /node_modules/,
+        use: [...publicCss]
       },
       {
         test: /\.less$/,
-        use: ['style-loader', 'css-loader', 'less-loader'],
+        exclude: /node_modules/,
+        use: [...publicCss, 'less-loader'],
       },
       {
         test: /\.s[ac]ss$/,
-        use: ['style-loader', 'css-loader', 'sass-loader']
+        exclude: /node_modules/,
+        use: [...publicCss, 'sass-loader']
       },
+      // scss里面引入图片的问题
       {
         test: /\.(jpg|jpeg|png|gif|svg|webp)$/,
-        loader: 'url-loader',
-        exclude: /.(html|less|css|sass|js|jsx|ts|tsx)$/,
-        options:{
-          limit: 10000,
-          name: 'img/[name].[ext]'
+        loader: 'file-loader',
+        options: {
+          // limit: 10000,
+          name: 'img/[name].[hash:7].[ext]'
+        }
+      },
+      {
+        test: /\.(ect|ttf|svg|woff)$/,
+        use: {
+          loader: 'file-loader',
+          options: {
+            name: 'icon/[name].[ext]'
+          }
         }
       }
     ],
@@ -87,15 +124,29 @@ module.exports = {
     hot: true,
     port: 3000,
     host: '127.0.0.1',
-    open: true,
-    // static: {
-    //   directory: resolve(__dirname, 'public'),
-    // },
+    // open: true,
+    static: {
+      directory: resolve(__dirname, 'assets'),
+    },
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: './public/index.html',
       filename: 'index.html'
-    })
+    }),
+    new MiniCssExtractPlugin({
+      filename: 'css/main.css'
+    }),
+    // new CssMinimizerPlugin(),
+    new ProgressPlugin({
+      activeModules: false,
+      entries: true,
+      modules: true,
+      modulesCount: 5000,
+      profile: false,
+      dependencies: true,
+      dependenciesCount: 10000,
+      percentBy: 'entries',
+    }),
   ]
 };
