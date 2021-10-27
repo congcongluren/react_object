@@ -100,30 +100,56 @@ module.exports = {
         exclude: /node_modules/,
         use: [...publicCss, 'sass-loader']
       },
-      // scss里面引入图片的问题
       {
-        test: /\.(jpg|jpeg|png|gif|svg|webp)$/,
-        loader: 'file-loader',
-        options: {
-          // limit: 10000,
-          name: 'img/[name].[hash:7].[ext]'
-        }
-      },
-      {
-        test: /\.(ect|ttf|svg|woff)$/,
-        use: {
-          loader: 'file-loader',
-          options: {
-            name: 'icon/[name].[ext]'
+        test: /\.(jpe?g|png|gif|svg|webp)$/i,
+        type: "asset", // 一般会转换为 "asset/resource"
+        generator: {
+          filename: "img/[name]_[hash:8][ext]", // 独立的配置
+        },
+        parser: {
+          dataUrlCondition: {
+            maxSize: 8 * 1024 // 8kb （低于8kb都会压缩成 base64）
           }
-        }
-      }
+        },
+      },
+      // 字体文件
+      {
+        test: /\.(otf|eot|woff2?|ttf|svg)$/i,
+        type: "asset", // 一般会转换为 "asset/inline"
+        generator: {
+          filename: "icon/[name]_[hash:8][ext]", // 独立的配置
+        },
+        parser: {
+          dataUrlCondition: {
+            maxSize: 2 * 1024 // 2kb （低于2kb都会压缩）
+          }
+        },
+      },
+
+      // {
+      //   test: /\.(jpg|jpeg|png|gif|svg|webp)$/,
+      //   loader: 'url-loader',
+      //   options: {
+      //     limit: 10000,
+      //     name: './img/[name].[hash:8].[ext]',
+      //     esModule: false
+      //   }
+      // },
+      // {
+      //   test: /\.(ect|ttf|svg|woff)$/,
+      //   use: {
+      //     loader: 'file-loader',
+      //     options: {
+      //       name: 'icon/[name].[ext]'
+      //     }
+      //   }
+      // }
     ],
   },
   devServer: {
     hot: true,
-    port: 3000,
-    host: '127.0.0.1',
+    port: 8080,
+    host: "0.0.0.0",
     // open: true,
     static: {
       directory: resolve(__dirname, 'assets'),

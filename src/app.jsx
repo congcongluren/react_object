@@ -1,17 +1,15 @@
 import React from "react";
-// import { Photo } from "./page/Photo";
-import StudyCss from './page/studyCss'
+import { Photo } from "./page/Photo";
+// import StudyCss from './page/studyCss'
+// import StudySvg from './page/studySvg';
+import Position from './page/position';
 
 const App = () => {
   return (
-    <div>
-      {/* <h1>
-        hello world
-      </h1>
-      <p>收到了副科级</p> */}
-      {/* <Photo/> */}
-      <StudyCss/>
-    </div>
+    // <div>
+      <Photo/>
+    // </div>
+      // <Position/>
   )
 }
 
