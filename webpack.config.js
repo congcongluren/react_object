@@ -148,7 +148,7 @@ module.exports = {
   },
   devServer: {
     hot: true,
-    port: 8080,
+    port: 80,
     host: "0.0.0.0",
     // open: true,
     static: {

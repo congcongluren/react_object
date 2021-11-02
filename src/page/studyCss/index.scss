@@ -1,5 +1,4 @@
 .mask-image {
     width: 250px; height: 187.5px;
-    // mask-image: url(http://localhost:3000/img/loading_blue.png);
-    mask-image: url(&/img/loading_blue.png);
+    mask-image: url(&/img/star.svg);
 }

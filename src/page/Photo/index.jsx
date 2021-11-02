@@ -10,7 +10,7 @@ export const Photo = () => {
     <div className="photo-wrap">
       <img src={avate} alt="" />
       <img src={smallImg} alt="" />
-      <img src={bizhi.default} alt="" />
+      <img src={bizhi} alt="" />
     </div>
   )
 }

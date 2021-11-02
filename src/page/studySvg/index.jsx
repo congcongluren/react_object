@@ -1,6 +1,7 @@
 import React from 'react';
 import './index.scss';
 export default function StudySvg() {
+    // new RegExp()
     return (
         <div className="grid">
             <svg width="750" height="500">
@@ -41,14 +42,34 @@ export default function StudySvg() {
                     <symbol id="download" viewBox="0 0 64 71">
                         <path d=" M 18 3,L 46 3, L 46 40, L 61 40, L 32 68, L 3 40, L 18 40, Z "></path>
                     </symbol>
+
+                    <symbol id="rect2"  viewBox="0 0 100 100">
+                        <rect x="3" y="3" width="94" height="94" rx="20" ry="20" fill="yellow"  style={{filter:"url(#Gaussian_Blur)"}} ></rect>
+                    </symbol>
+
+                    <symbol id="test"  viewBox="0 0 400 400">
+                    </symbol>
+                    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="100%">
+                        <stop offset="0%" style={{stopColor:"rgb(255,255,0)"}}/>
+                        <stop offset="100%" style={{stopColor:"rgb(255,0,0)"}}/>
+                    </linearGradient>
+                    <radialGradient id="bg2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                        <stop offset="0%" style={{stopColor:"green"}}/>
+                        <stop offset="50%" style={{stopColor:"red"}}/>
+                        <stop offset="100%" style={{stopColor:"blue"}}/>
+                    </radialGradient>
+                    <filter id="Gaussian_Blur">
+                        <feGaussianBlur in="SourceGraphic" stdDeviation="20"/>
+                    </filter>
                 </defs>
-                <use href="#leftalign" x="100" y="100"></use>
+                {/* <use href="#leftalign" x="100" y="100"></use>
                 <use href="#rightcaret" x="300" y="100"></use>
                 <use href="#browser" x="500" y="100"></use>
                 <use href="#alert" x="100" y="200" width="100" height="100"></use>
                 <use href="#play" x="300" y="200" width="100" height="100"></use>
                 <use href="#download" x="500" y="200" width="100" height="100"></use>
-
+                <use href="#rect2" x="100" y="300" width="100" height="100"></use> */}
+                <use href="#rect2" x="000" y="000" width="400" height="400"></use>
             </svg>
         </div>
     )

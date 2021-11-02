@@ -1,0 +1,39 @@
+.study-regexp{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    input{
+        width: 600px;
+        height: 50px;
+        font-size: 30px;
+        line-height: 50px;
+        text-align: center;
+        color: coral;
+        border: 1px solid rgb(255, 212, 162);
+        margin-bottom: 20px;
+    }
+    .reg{
+        .reg-other {
+            width: 50px;
+            margin-left: 10px;
+        }
+    }
+    .text{
+        color: rgb(124, 124, 124);
+        border: 1px solid rgb(124, 124, 124);
+    }
+    p{
+        width: 400px;
+        height: 40px;
+        font-size: 30px;
+        line-height: 40px;
+        background: rgb(215, 249, 255);
+        margin-bottom: 20px;
+    }
+}
