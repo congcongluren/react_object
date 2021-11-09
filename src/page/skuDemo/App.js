@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Button } from 'antd';
 import { getPrime, PathFinder, descartes } from './components/';
-import 'antd/dist/antd.css';
 export default class Demo extends Component {
   state = {
     // type: 规格类型
@@ -9,6 +8,8 @@ export default class Demo extends Component {
       ['男裤', '女裤'],
       ['黑色', '白色'],
       ['S', 'L'],
+      ['布料', '塑料'],
+      ['长', '短'],
     ], // 规格
     selected: [], // 已经选中的规格
     unDisabled: [], // 可选规格
@@ -107,11 +108,12 @@ export default class Demo extends Component {
 
     const typeBtns = type.map((item, index) => {
       return (
-        <div style={{ margin: 10 }}>
+        <div style={{ margin: 10 }} key = {index}>
           {
-            item.map((btn) => {
+            item.map((btn, i) => {
               return (
                 <Button style={{ margin: '0 10px' }} 
+                  key = {i}
                   type={selected.includes(btn) ? 'primary' : ''}
                   disabled={!unDisabled.includes(valueInLabel[btn])}
                   onClick={() => {
@@ -126,9 +128,9 @@ export default class Demo extends Component {
       );
     });
 
-    const canUseSkuNode = canUseSku.map((item) => {
+    const canUseSkuNode = canUseSku.map((item, i) => {
       return (
-        <Button style={{ margin: '0 10px' }}>{item.skuName}</Button>
+        <Button style={{ margin: '0 10px' }} key={i}>{item.skuName}</Button>
       );
     });
     return (
