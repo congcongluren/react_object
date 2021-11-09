@@ -4,7 +4,8 @@ import React from "react";
 // import StudySvg from './page/studySvg';
 // import Position from './page/position';
 // import StudyRegExp from './page/stydyRegExp';
-import StudySKU from './page/studySKU';
+// import StudySKU from './page/studySKU';
+import StudyAlgorithm from './page/studyAlgorithm';
 
 const App = () => {
   return (
@@ -12,7 +13,8 @@ const App = () => {
       {/* <Photo/> */}
       {/* <Position/> */}
       {/* <StudyCss/> */}
-      <StudySKU/>
+      {/* <StudySKU/> */}
+      <StudyAlgorithm/>
       {/* <StudySvg/> */}
       {/* <StudyRegExp/> */}
     </div>
