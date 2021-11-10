@@ -262,17 +262,17 @@ class LinkedList {
 
 }
 
-const linked1 = new LinkedList('head');
-linked1.push("1111");
-linked1.push("2222");
-linked1.push("3333");
-linked1.push("4444");
-linked1.push("5555");
-linked1.push("6666");
+// const linked1 = new LinkedList('head');
+// linked1.push("1111");
+// linked1.push("2222");
+// linked1.push("3333");
+// linked1.push("4444");
+// linked1.push("5555");
+// linked1.push("6666");
 
-console.log(linked1.print());
+// console.log(linked1.print());
 
-linked1.removeNthFromEnd(7);
+// linked1.removeNthFromEnd(7);
 
-console.log(linked1.print());
+// console.log(linked1.print());
 // console.log(linked1);
