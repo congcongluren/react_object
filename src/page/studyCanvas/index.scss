@@ -1,0 +1,15 @@
+.wrap{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    // text-align: center;
+    align-items: center;
+    justify-content: center;
+    &>div{
+        // border: 1px solid rgb(119, 223, 255);
+        width: 601px;
+        height: 601px;
+        margin: 0 auto;
+        background-image: url('&/img/grid.png');
+    }
+}
