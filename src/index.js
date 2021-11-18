@@ -9,5 +9,6 @@ import ReactDom from 'react-dom';
 import './style/index.css';
 // import './style/index.less';
 // import './style/index.scss';
+import './react';
 
-ReactDom.render(<App/>, document.getElementById('app'))
+// ReactDom.render(<App/>, document.getElementById('app'));

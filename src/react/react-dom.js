@@ -5,7 +5,7 @@ function render(element, container) {
     let fiberRoot = createFiberRoot(container);
     updateContainer(element, fiberRoot);
 }
-const ReactDom = {
+const ReactDOM = {
     render
 }
-export default ReactDom;
+export default ReactDOM;

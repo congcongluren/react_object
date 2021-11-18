@@ -3,7 +3,7 @@
  * 初始化更新队列
  * 所有的fiber都会等待理更新内容放在更新队列中
  */
-export function initializeUpdateQueue(fiber) {
+ export function initializeUpdateQueue(fiber) {
     const updateQueue = {
         shared: {
             pending: null
