@@ -7,7 +7,8 @@ import React from "react";
 // import StudySKU from './page/studySKU';
 // import StudyAlgorithm from './page/studyAlgorithm';
 // import SkuDemo from './page/skuDemo';
-import StudyCanvas from './page/studyCanvas';
+// import StudyCanvas from './page/studyCanvas';
+import StudyThree from './page/studyThree';
 
 const App = () => {
   return (
@@ -17,8 +18,9 @@ const App = () => {
       {/* <StudyCss/> */}
       {/* <StudySKU/> */}
       {/* <StudyAlgorithm/> */}
+      <StudyThree/>
       {/* <SkuDemo/> */}
-      <StudyCanvas/>
+      {/* <StudyCanvas/> */}
       {/* <StudySvg/> */}
       {/* <StudyRegExp/> */}
     </div>
