@@ -3,29 +3,24 @@ let p= [5, 5, 3, 4, 3];
 const getMostGold = (n, w, g, p) => {
     let preRes = [];
     let res = [];
-    for (let i = 0; i < w; i++) {
-        if (i + 1 < p[0]) {
+    for (let i = 0; i <= w; i++) {
+        if (i < p[0]) {
             preRes[i] = 0;
         } else {
             preRes[i] = g[0];
         }
     }
-
-
     for (let i = 1; i < n; i++) {
-        for (let j = 0; j < w; j++) {
-            if (j + 1 < p[i]) {
+        for (let j = 0; j <= w; j++) {
+            if (j < p[i]) {
                 res[j] = preRes[j];
             }else {
-                res[j] = Math.max(preRes[j], preRes[j + 1 - p[i]] + g[i]);
+                res[j] = Math.max(preRes[j], preRes[j - p[i]] + g[i]);
             }
         }
-        preRes = res;
-        
+        preRes = [].concat(res);   
     }
-
-
-    return res[w - 1];
+    return res[w];
 }
 
 console.log(getMostGold(5, 10, g, p));
