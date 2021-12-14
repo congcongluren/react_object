@@ -18,7 +18,7 @@ function createElement(type, config, children) {
     let ref = null;
     if (config) {
         if (config.key) {
-            key = config.key;
+            key = config.key + "";
         }
         if (config.ref) {
             ref = config.ref;
