@@ -1,16 +1,32 @@
 {
     "compilerOptions": {
         "baseUrl": ".",
-　　　　 "paths": {
-　　　　 　　"@/*": ["src/*"],
-　　　　 　　"@typings/*": ["src/typings/*"],
-　　　　 　　"@components/*": ["src/components/*"],
-　　　　 　　"@style/*": ["src/style/*"],
-　　　　 　　"~/*": ["src/utils/*"],
-　　　　 　　"~": ["src/utils"],
-　　　　 　　"@router/*": ["src/router/*"],
-　　　　 　　"@store/*": ["src/store/*"],
-　　　　 },
+        "paths": {
+            "@/*": [
+                "src/*"
+            ],
+            "@typings/*": [
+                "src/typings/*"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@style/*": [
+                "src/style/*"
+            ],
+            "~/*": [
+                "src/utils/*"
+            ],
+            "~": [
+                "src/utils"
+            ],
+            "@router/*": [
+                "src/router/*"
+            ],
+            "@store/*": [
+                "src/store/*"
+            ],
+        },
         "noUnusedLocals": false,
         "noUnusedParameters": false,
         "noImplicitReturns": false,
