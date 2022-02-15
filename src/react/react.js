@@ -1,4 +1,4 @@
-import { REACT_ELEMENT_TYPE } from './ReactSymbols'
+import { REACT_ELEMENT_TYPE } from './data/ReactSymbols';
 const RESERVED_PROPS = {
     key: true,
     ref: true,

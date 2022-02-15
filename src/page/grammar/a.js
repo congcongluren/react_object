@@ -18,11 +18,11 @@ function aSet(params) {
 
 
 
-module.exports = aObj;
-module = aObj;
+// module.exports = aObj;
+// module = aObj;
 // console.log(module, 777);
-// module.exports = {
-//     aStr,
-//     aSet,
-//     aGet
-// }
+module.exports = {
+    aStr,
+    aSet,
+    aGet
+}

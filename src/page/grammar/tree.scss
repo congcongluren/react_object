@@ -1,0 +1,24 @@
+.tree-wrap {
+    border: 1px solid #000;
+    display: inline-block;
+    .child{
+        display: flex;
+    }
+    .node {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        margin: 10px;
+        background: rgb(204, 204, 204);
+        border-radius: 50%;
+        text-align: center;
+        line-height: 40px;
+    }
+    .null{
+        background: rgb(255, 255, 255);
+    }
+
+    .node-wrap{
+        text-align: center;
+    }
+}

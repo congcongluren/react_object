@@ -28,7 +28,7 @@ const publicCss = [
 module.exports = {
   mode: "development",
   entry: {
-    mian: "./src/general.js",
+    mian: "./src/index.js",
     // test:'./src/test.js',
   },
   output: {

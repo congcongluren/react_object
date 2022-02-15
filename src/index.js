@@ -6,7 +6,7 @@ import ReactDom from 'react-dom';
 // import './main.ts';
 // import './index.jsx';
 // import './index.tsx';
-import './style/index.css';
+// import './style/index.css';
 // import './style/index.less';
 // import './style/index.scss';
 // import './react';

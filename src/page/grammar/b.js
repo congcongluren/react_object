@@ -9,10 +9,14 @@ function bSet(params) {
     bStr = 'b 模块的变量' + params
 }
 
+let bObj = {
+    b: 1
+}
 
 
 export {
     bStr,
     bSet,
-    bGet
+    bGet,
+    bObj
 }
