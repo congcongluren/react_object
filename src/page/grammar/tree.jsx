@@ -19,6 +19,7 @@ export default function Tree() {
         t4.forEach(item => {
             bst1.insert(item);
         });
+        
 
         setTree(bst1);
         setData(bst1.root);

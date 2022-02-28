@@ -151,9 +151,10 @@ module.exports = {
     port: 80,
     host: "0.0.0.0",
     // open: true,
-    static: {
-      directory: resolve(__dirname, 'assets'),
-    },
+    static: [
+      { directory: resolve(__dirname, 'assets'), },
+      { directory: resolve(__dirname, 'public'), }
+    ],
   },
   plugins: [
     new HtmlWebpackPlugin({
