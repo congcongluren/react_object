@@ -7,10 +7,11 @@ import React from "react";
 // import StudySKU from './page/studySKU';
 // import StudyAlgorithm from './page/studyAlgorithm';
 // import SkuDemo from './page/skuDemo';
-import StudyCanvas from './page/studyCanvas';
+// import StudyCanvas from './page/studyCanvas';
 // import StudyThree from './page/studyThree';
 // import Grammar from './page/grammar';
 // import StudyFabric from './page/studyFabric';
+import Other from './page/other';
 
 const App = () => {
   return (
@@ -22,11 +23,12 @@ const App = () => {
       {/* <StudyAlgorithm/> */}
       {/* <StudyThree/> */}
       {/* <SkuDemo/> */}
-      <StudyCanvas/>
+      {/* <StudyCanvas/> */}
       {/* <StudySvg/> */}
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
+      <Other/>
     </div>
   )
 }

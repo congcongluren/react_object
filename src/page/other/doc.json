@@ -1,0 +1,2639 @@
+{
+    "canvas": {
+        "height": 2208,
+        "width": 1242,
+        "showUnit": "px",
+        "title": "test title",
+        "backgroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+        }
+    },
+    "pageAttr": {
+        "backgroundColor": [
+            {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            }
+        ],
+        "backgroundImage": [
+            {
+                "resId": ""
+            }
+        ],
+        "backgroundOpacity": [
+            false
+        ]
+    },
+    "work": [
+        [
+            {
+                "meta": {
+                    "locked": true,
+                    "type": "background",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!h1600_b_w"
+                },
+                "attribute": {
+                    "resId": "37755482",
+                    "width": 1242,
+                    "height": 2208,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "957616",
+                    "sourceWidth": "1242",
+                    "sourceHeight": "2208",
+                    "assetWidth": 900,
+                    "assetHeight": 1600,
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/86/87/77/39/76/766d16ed93f71b803fff9d0a5f9a659c.png!h1600_b_w?auth_key=2279116800-0-0-f1d2af412cbb03827dfd8eaeab78c9fc&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/86/87/77/39/76/766d16ed93f71b803fff9d0a5f9a659c.png!l2000?auth_key=2279116800-0-0-b40dc4a82ab0f6d8e48ff5bd585b2463",
+                    "class_id": [
+                        "2"
+                    ]
+                },
+                "transform": {
+                    "posX": 0,
+                    "posY": 0,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 0,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "png",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "36646975",
+                    "width": 1841,
+                    "height": 1841,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "container": {
+                        "id": "25653869",
+                        "width": 764,
+                        "height": 764,
+                        "source_width": "600",
+                        "source_height": "600",
+                        "posX": -890.6088,
+                        "posY": -112.0044,
+                        "viewBoxWidth": 764,
+                        "viewBoxHeight": 764,
+                        "viewBoxWidthBack": 830,
+                        "viewBoxHeightBack": 830,
+                        "source_key": "https://818ps.com/api/asset/25653869/E5086E3079F042D0243124",
+                        "svgUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png.svg?auth_key=2279116800-0-0-c299ca02183d4090e9390ba375802137"
+                    },
+                    "rt_owner": "3165006",
+                    "sourceWidth": "1000",
+                    "sourceHeight": "1000",
+                    "assetWidth": "1000",
+                    "assetHeight": "1000",
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l1600_i_w?auth_key=2279116800-0-0-20aedf400261ef6c3a236153bdeae0dc&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l2000?auth_key=2279116800-0-0-c10cf7d6bc813cbc3905448ebbcfc7f3",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 361.4845,
+                    "posY": 923.3183,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 2,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "png",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "36646975",
+                    "width": 1153,
+                    "height": 1153,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "container": {
+                        "id": "25653869",
+                        "width": 275,
+                        "height": 275,
+                        "source_width": "600",
+                        "source_height": "600",
+                        "posX": -219.9687,
+                        "posY": -287.5283,
+                        "viewBoxWidth": 275,
+                        "viewBoxHeight": 275,
+                        "viewBoxWidthBack": 830,
+                        "viewBoxHeightBack": 830,
+                        "source_key": "https://818ps.com/api/asset/25653869/E5086E3079F042D0243124",
+                        "svgUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png.svg?auth_key=2279116800-0-0-c299ca02183d4090e9390ba375802137"
+                    },
+                    "rt_owner": "3165006",
+                    "sourceWidth": "1000",
+                    "sourceHeight": "1000",
+                    "assetWidth": "1000",
+                    "assetHeight": "1000",
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l1600_i_w?auth_key=2279116800-0-0-20aedf400261ef6c3a236153bdeae0dc&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l2000?auth_key=2279116800-0-0-c10cf7d6bc813cbc3905448ebbcfc7f3",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 1123.4,
+                    "posY": 546.6817,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 3,
+                    "horizontalFlip": false,
+                    "verticalFlip": true
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 454,
+                    "height": 242,
+                    "text": [
+                        "",
+                        "职初教师"
+                    ],
+                    "fontSize": 80.7099,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 15,
+                    "letterSpacing": 6.9484,
+                    "fontFamily": "zh100hffxft",
+                    "color": {
+                        "r": 74,
+                        "g": 74,
+                        "b": 74,
+                        "a": 1
+                    },
+                    "fontStyle": "italic",
+                    "effect": "4@0",
+                    "effectVariant": {
+                        "layers": [
+                            {
+                                "zindex": 1,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 10,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.071037882352941,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 20,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.532353,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 30,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 40,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 50,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "variableColorPara": [],
+                        "variableSizePara": [
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 1,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0071037882,
+                                    "max": -0.1420757647
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 2,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 3,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": 0.0035518941,
+                                    "max": 0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 4,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            }
+                        ]
+                    },
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 91.7256,
+                    "posY": 266.5397,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 5,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "png",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "36646975",
+                    "width": 1316,
+                    "height": 2790,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "container": {
+                        "id": "25653841",
+                        "width": 259,
+                        "height": 94,
+                        "source_width": "600",
+                        "source_height": "275",
+                        "posX": -754.9231,
+                        "posY": -675.6676,
+                        "viewBoxWidth": 259,
+                        "viewBoxHeight": 94,
+                        "viewBoxWidthBack": 830,
+                        "viewBoxHeightBack": 379,
+                        "source_key": "https://818ps.com/api/asset/25653841/BBB1D90AEBD0404B243124",
+                        "svgUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png.svg?auth_key=2279116800-0-0-c299ca02183d4090e9390ba375802137"
+                    },
+                    "rt_owner": "3165006",
+                    "sourceWidth": "1000",
+                    "sourceHeight": "1000",
+                    "assetWidth": "1000",
+                    "assetHeight": "1000",
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l1600_i_w?auth_key=2279116800-0-0-20aedf400261ef6c3a236153bdeae0dc&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/58/09/46/24/10/105b07e2b67b6fe1ab582454eee6b16e.png!l2000?auth_key=2279116800-0-0-c10cf7d6bc813cbc3905448ebbcfc7f3",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 92.6704,
+                    "posY": 601.0155,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 6,
+                    "horizontalFlip": true,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 225,
+                    "height": 84,
+                    "text": [
+                        "刘红枚"
+                    ],
+                    "fontSize": 70.8561,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 12,
+                    "letterSpacing": 1.4765,
+                    "fontFamily": "fnsyhtHeavy",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "fontStyle": "normal",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 109.9062,
+                    "posY": 604.1216,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 7,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "37982132",
+                    "width": 258,
+                    "height": 129,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#4A94FF": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "-10",
+                    "sourceWidth": "600",
+                    "sourceHeight": "300",
+                    "assetWidth": "600",
+                    "assetHeight": "300",
+                    "source_key": "https://818ps.com/api/asset/37982132/DD79D1F186826610243124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/37/98/21/09b424e598794b77e9036f5d1d26149a.svg?auth_key=2279116800-0-0-c5330c47be8f0cef9631dabee8c1f055",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 80.3371,
+                    "posY": 718.381,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 8,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 212,
+                    "height": 56,
+                    "text": [
+                        "金牌讲师"
+                    ],
+                    "fontSize": 46.6724,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                    "lineHeight": 12,
+                    "letterSpacing": 1.9513,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "fontStyle": "normal",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 107.1667,
+                    "posY": 751.6674,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 9,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 998,
+                    "height": 631,
+                    "text": [
+                        "高级教师",
+                        "国家二级心理咨询师",
+                        "高级家庭教育指导师",
+                        "西南大学硕士研究生校外指导教师",
+                        "重庆市高中语文课程创新基地成员",
+                        "重庆市高中语文整本书阅读执教团队成员",
+                        "重庆电视台科教频道特邀专家",
+                        "American Board of Examiners in Psychodrama, ",
+                        "Sociometry and Group Psychotherapy 认证心理剧导演"
+                    ],
+                    "fontSize": 34.9729,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 20,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "fontStyle": "normal",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 119.3643,
+                    "posY": 865.5083,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 23,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "37389322",
+                    "width": 480,
+                    "height": 480,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "506708",
+                    "sourceWidth": "430",
+                    "sourceHeight": "430",
+                    "assetWidth": "430",
+                    "assetHeight": "430",
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/76/57/95/04/da/dabf62b86400623c8c659d1048fee1ca.png!l1600_i_w?auth_key=2279116800-0-0-47157aa47c60ca75259d76f6f21d71a7&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/76/57/95/04/da/dabf62b86400623c8c659d1048fee1ca.png!l2000?auth_key=2279116800-0-0-d2225485a9c621e156a5754e35926be0",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": -770,
+                    "posY": 1200,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 10,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "36662599",
+                    "width": 480,
+                    "height": 674,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "-1",
+                    "sourceWidth": "1850",
+                    "sourceHeight": "2598",
+                    "assetWidth": 1139,
+                    "assetHeight": 1600,
+                    "picUrl": "https://img.tuguaishou.com/ips_asset_699pic/15/61/97/08/58/a7/a7c28f374871018d09c2b541ffd97fc8.png!l1600_i_w?auth_key=2279116800-0-0-7029d4bf752d0d4cbe155f36b99cd2df&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/ips_asset_699pic/15/61/97/08/58/a7/a7c28f374871018d09c2b541ffd97fc8.png!l2000?auth_key=2279116800-0-0-a7c3c5408b8b177bff4d93b9b27aac64",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": -732,
+                    "posY": 1437,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 11,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 952,
+                    "height": 54,
+                    "text": [
+                        "时间：2022年3月20日   15：00—16：30"
+                    ],
+                    "fontSize": 35.8423,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                    "lineHeight": 15,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "fontStyle": "normal",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 168.5357,
+                    "posY": 2008.7841,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 22,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521816",
+                    "width": 60,
+                    "height": 52,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "218",
+                    "sourceHeight": "190",
+                    "assetWidth": "218",
+                    "assetHeight": "190",
+                    "source_key": "https://818ps.com/api/asset/7521816/2A9881BCED6E69FB3124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/81/d45e8568809dd2516c5912bd084281fc.svg?auth_key=2279116800-0-0-88bb1103cdd9f6472bef98669c825dc9",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 961.2161,
+                    "posY": 244.8611,
+                    "alpha": 100,
+                    "rotate": 90,
+                    "zindex": 12,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521816",
+                    "width": 60,
+                    "height": 52,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "218",
+                    "sourceHeight": "190",
+                    "assetWidth": "218",
+                    "assetHeight": "190",
+                    "source_key": "https://818ps.com/api/asset/7521816/2A9881BCED6E69FB3124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/81/d45e8568809dd2516c5912bd084281fc.svg?auth_key=2279116800-0-0-88bb1103cdd9f6472bef98669c825dc9",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 1048.1394,
+                    "posY": 244.8611,
+                    "alpha": 66,
+                    "rotate": 90,
+                    "zindex": 13,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521816",
+                    "width": 60,
+                    "height": 52,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "218",
+                    "sourceHeight": "190",
+                    "assetWidth": "218",
+                    "assetHeight": "190",
+                    "source_key": "https://818ps.com/api/asset/7521816/2A9881BCED6E69FB3124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/81/d45e8568809dd2516c5912bd084281fc.svg?auth_key=2279116800-0-0-88bb1103cdd9f6472bef98669c825dc9",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 1133.8028,
+                    "posY": 244.8611,
+                    "alpha": 38,
+                    "rotate": 90,
+                    "zindex": 14,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 22,
+                    "height": 22,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.3053,
+                    "posY": 961.0833,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 15,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 23,
+                    "height": 23,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.2339,
+                    "posY": 1096.3424,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 16,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 23,
+                    "height": 23,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.2339,
+                    "posY": 1165.6389,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 17,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 22,
+                    "height": 22,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.3053,
+                    "posY": 1233.6389,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 18,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "37255843",
+                    "width": 390,
+                    "height": 1298,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "url(#SVGID_1_)": ""
+                    },
+                    "rt_owner": "-216",
+                    "sourceWidth": "600",
+                    "sourceHeight": "1066",
+                    "assetWidth": "600",
+                    "assetHeight": "1066",
+                    "source_key": "https://818ps.com/api/asset/37255843/B819CF67CB86CFF5243124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/37/25/58/366cfb07eb4e3cf69053d4643ced0c57.svg?auth_key=2279116800-0-0-0ca1aa48b0965e12c87181d25b626220",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 2159.7143,
+                    "posY": 596.4286,
+                    "alpha": 100,
+                    "rotate": 270,
+                    "zindex": 20,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "UA-108377930",
+                    "width": 1021,
+                    "height": 1429,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "11123846",
+                    "sourceWidth": "1072",
+                    "sourceHeight": "1500",
+                    "assetWidth": "1072",
+                    "assetHeight": "1500",
+                    "picUrl": "https://img.tuguaishou.com/ips_user_asset/16/23/39/66/31/5a/5a4fe8b76f1491c545655295bf858b6f.png!l1600?auth_key=2279116800-0-0-5be5996e22e90f47f7de62b1252eb6ed",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/ips_user_asset/16/23/39/66/31/5a/5a4fe8b76f1491c545655295bf858b6f.png!l2000?auth_key=2279116800-0-0-4c3b851f7891de83687a0f88ceb5842b",
+                    "rt_picUrl": "https://img.tuguaishou.com/ips_user_asset/16/23/39/66/31/5a/5a4fe8b76f1491c545655295bf858b6f.png?auth_key=2279116800-0-0-6ba8ba94290ef3be30c4fa6b44a605b0",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 977.2214,
+                    "posY": 538.9325,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 19,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 22,
+                    "height": 22,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.3053,
+                    "posY": 1373.3214,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 24,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 23,
+                    "height": 23,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.2339,
+                    "posY": 1028.8611,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 25,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 22,
+                    "height": 22,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.3053,
+                    "posY": 892.96,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 26,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 501,
+                    "height": 54,
+                    "text": [
+                        "地点：巴蜀中学图书馆三楼"
+                    ],
+                    "fontSize": 35.8423,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                    "lineHeight": 15,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "fontStyle": "normal",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 360.6039,
+                    "posY": 2079.8318,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 27,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521983",
+                    "width": 23,
+                    "height": 23,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": "255",
+                            "g": "255",
+                            "b": "255",
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "600",
+                    "sourceHeight": "600",
+                    "assetWidth": "600",
+                    "assetHeight": "600",
+                    "source_key": "https://818ps.com/api/asset/7521983/7D6B2D42221952793124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/d20331f9aa1ef0b6e43d0b1f10e22e54.svg?auth_key=2279116800-0-0-1cd882a1f37337662b4643ac4305fb2a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 79.2339,
+                    "posY": 1304.8214,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 28,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "png",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "37389267",
+                    "width": 994,
+                    "height": 991,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "5359678",
+                    "sourceWidth": "1000",
+                    "sourceHeight": "1000",
+                    "assetWidth": "1000",
+                    "assetHeight": "1000",
+                    "picUrl": "https://img.tuguaishou.com/designer_upload_asset/15/76/57/21/28/70/70622a793ee1542389e7bbda25d68a03.png!l1600_i_w?auth_key=2279116800-0-0-933f777d026a14c71d1fc55c91cc986e&v=2",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/designer_upload_asset/15/76/57/21/28/70/70622a793ee1542389e7bbda25d68a03.png!l2000?auth_key=2279116800-0-0-d754826e2d746095563951ee3f482c25",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 825.2916,
+                    "posY": -30.638,
+                    "alpha": 85,
+                    "rotate": 0,
+                    "zindex": 4,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521984",
+                    "width": 42,
+                    "height": 46,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "212",
+                    "sourceHeight": "212",
+                    "assetWidth": "212",
+                    "assetHeight": "212",
+                    "source_key": "https://818ps.com/api/asset/7521984/73CD1F4A0DC216433124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/4029738f498957164717a62385336a12.svg?auth_key=2279116800-0-0-50c21b62f6dbfefa8a482ab281fa508a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 81.1653,
+                    "posY": 1569.4099,
+                    "alpha": 65,
+                    "rotate": 0,
+                    "zindex": 29,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "text"
+                },
+                "attribute": {
+                    "width": 467,
+                    "height": 54,
+                    "text": [
+                        "课程板块：情绪与沟通"
+                    ],
+                    "fontSize": 40.627,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 13,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "writingMode": "horizontal-tb",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 145.3333,
+                    "posY": 1573.4072,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 30,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "text"
+                },
+                "attribute": {
+                    "width": 270,
+                    "height": 48,
+                    "text": [
+                        "敏学班第二期"
+                    ],
+                    "fontSize": 38.3855,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 13,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "255",
+                        "g": "255",
+                        "b": "255",
+                        "a": 1
+                    },
+                    "writingMode": "horizontal-tb",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 962.6762,
+                    "posY": 316.9484,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 32,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521984",
+                    "width": 44,
+                    "height": 47,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "212",
+                    "sourceHeight": "212",
+                    "assetWidth": "212",
+                    "assetHeight": "212",
+                    "source_key": "https://818ps.com/api/asset/7521984/73CD1F4A0DC216433124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/4029738f498957164717a62385336a12.svg?auth_key=2279116800-0-0-50c21b62f6dbfefa8a482ab281fa508a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 93.777,
+                    "posY": 1652.3333,
+                    "alpha": 77,
+                    "rotate": 0,
+                    "zindex": 31,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521984",
+                    "width": 44,
+                    "height": 47,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "212",
+                    "sourceHeight": "212",
+                    "assetWidth": "212",
+                    "assetHeight": "212",
+                    "source_key": "https://818ps.com/api/asset/7521984/73CD1F4A0DC216433124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/4029738f498957164717a62385336a12.svg?auth_key=2279116800-0-0-50c21b62f6dbfefa8a482ab281fa508a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 91.1653,
+                    "posY": 1581.6321,
+                    "alpha": 65,
+                    "rotate": 0,
+                    "zindex": 33,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "7521984",
+                    "width": 42,
+                    "height": 46,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#3C3C3C": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1
+                        }
+                    },
+                    "rt_owner": "16",
+                    "sourceWidth": "212",
+                    "sourceHeight": "212",
+                    "assetWidth": "212",
+                    "assetHeight": "212",
+                    "source_key": "https://818ps.com/api/asset/7521984/73CD1F4A0DC216433124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/75/21/98/4029738f498957164717a62385336a12.svg?auth_key=2279116800-0-0-50c21b62f6dbfefa8a482ab281fa508a",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 81.832,
+                    "posY": 1642.1877,
+                    "alpha": 65,
+                    "rotate": 0,
+                    "zindex": 34,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "37255859",
+                    "width": 413,
+                    "height": 421,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "url(#SVGID_1_)": ""
+                    },
+                    "rt_owner": "-216",
+                    "sourceWidth": "600",
+                    "sourceHeight": "609",
+                    "assetWidth": "600",
+                    "assetHeight": "609",
+                    "source_key": "https://818ps.com/api/asset/37255859/673E4419E2C8BAF4243124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/37/25/58/78a084f8a7b47639c6f81791b4c533fa.svg?auth_key=2279116800-0-0-a6c2638c9eb799db1335c130b5bcd6c7",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 379.0833,
+                    "posY": 151.5,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 1,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "38294100",
+                    "width": 1225,
+                    "height": 12,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "#FF5050": ""
+                    },
+                    "rt_owner": "4599402",
+                    "sourceWidth": "600",
+                    "sourceHeight": "7",
+                    "assetWidth": "600",
+                    "assetHeight": "7",
+                    "source_key": "https://818ps.com/api/asset/38294100/A717091BCD70E3DD243124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/38/29/41/6ff638ca0aaad338d1ab9a6278ccbb33.svg?auth_key=2279116800-0-0-b414ffd32dae95961637c11e445b3da0",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 10.6238,
+                    "posY": 1805.5672,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 35,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "image",
+                    "name": "",
+                    "group": "",
+                    "aliParam": "!l1600_i_w",
+                    "isFav": false
+                },
+                "attribute": {
+                    "resId": "UA-152151439",
+                    "width": 89,
+                    "height": 88,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "filters": {
+                        "brightness": 0,
+                        "saturate": 0,
+                        "contrast": 0,
+                        "blur": 0,
+                        "sharpen": 0,
+                        "hue": 0,
+                        "gamma-r": 1,
+                        "gamma-g": 1,
+                        "gamma-b": 1,
+                        "strong": 1
+                    },
+                    "rt_owner": "11123846",
+                    "sourceWidth": "1682",
+                    "sourceHeight": "1674",
+                    "assetWidth": 1600,
+                    "assetHeight": 1592,
+                    "picUrl": "https://img.tuguaishou.com/ips_user_asset/16/46/19/37/60/ab/ab4a8e62652f1aff4d5ac2386c072259.png!l1600?auth_key=2279116800-0-0-dc7f720b40f2dbb2e2856323c84e0153",
+                    "rt_picUrl_2k": "https://img.tuguaishou.com/ips_user_asset/16/46/19/37/60/ab/ab4a8e62652f1aff4d5ac2386c072259.png!l2000?auth_key=2279116800-0-0-16a9ca937049b6f95869b9748fd50ea2",
+                    "rt_picUrl": "https://img.tuguaishou.com/ips_user_asset/16/46/19/37/60/ab/ab4a8e62652f1aff4d5ac2386c072259.png?auth_key=2279116800-0-0-53f675ca42abed6f99c6d8f7ed6584de",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 1116.5392,
+                    "posY": 11.3367,
+                    "alpha": 100,
+                    "rotate": 0,
+                    "zindex": 36,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "SVG",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "aliParam": "!l1600"
+                },
+                "attribute": {
+                    "resId": "37255843",
+                    "width": 419,
+                    "height": 1320,
+                    "cropXFrom": 0,
+                    "cropYFrom": 0,
+                    "cropXTo": 1,
+                    "cropYTo": 1,
+                    "colors": {
+                        "url(#SVGID_1_)": ""
+                    },
+                    "rt_owner": "-216",
+                    "sourceWidth": "600",
+                    "sourceHeight": "1066",
+                    "assetWidth": "600",
+                    "assetHeight": "1066",
+                    "source_key": "https://818ps.com/api/asset/37255843/B819CF67CB86CFF5243124",
+                    "SVGUrl": "https://img.tuguaishou.com/ips_svg/37/25/58/366cfb07eb4e3cf69053d4643ced0c57.svg?auth_key=2279116800-0-0-0ca1aa48b0965e12c87181d25b626220",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 407.4464,
+                    "posY": 1387.2096,
+                    "alpha": 100,
+                    "rotate": 270,
+                    "zindex": 21,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "text"
+                },
+                "attribute": {
+                    "width": 682,
+                    "height": 104,
+                    "text": [
+                        "重庆市巴蜀中学校与西南大学教师教育学院联合开发“未来教师培训”项目"
+                    ],
+                    "fontSize": 34.627,
+                    "fontWeight": "normal",
+                    "textAlign": "center",
+                    "lineHeight": 15,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": "237",
+                        "g": "231",
+                        "b": "246",
+                        "a": 1
+                    },
+                    "writingMode": "horizontal-tb",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 294.9172,
+                    "posY": 45.7164,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 37,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "text"
+                },
+                "attribute": {
+                    "width": 552,
+                    "height": 54,
+                    "text": [
+                        "课程主题：《做情绪的主人》"
+                    ],
+                    "fontSize": 40.627,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 13,
+                    "letterSpacing": 0,
+                    "fontFamily": "fnsyhtRegular",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "writingMode": "horizontal-tb",
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 152.0441,
+                    "posY": 1648.6735,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 38,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 772,
+                    "height": 251,
+                    "text": [
+                        "巴蜀学苑“耕道•立人”教师专业化培养系列课程",
+                        ""
+                    ],
+                    "fontSize": 55.5244,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 15,
+                    "letterSpacing": 6.9484,
+                    "fontFamily": "zh100hffxft",
+                    "color": {
+                        "r": 74,
+                        "g": 74,
+                        "b": 74,
+                        "a": 1
+                    },
+                    "fontStyle": "italic",
+                    "effect": "4@0",
+                    "effectVariant": {
+                        "layers": [
+                            {
+                                "zindex": 1,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 10,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.071037882352941,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 20,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.532353,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 30,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 40,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 50,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "variableColorPara": [],
+                        "variableSizePara": [
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 1,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0071037882,
+                                    "max": -0.1420757647
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 2,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 3,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": 0.0035518941,
+                                    "max": 0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 4,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            }
+                        ]
+                    },
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 91.7256,
+                    "posY": 189.6203,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 39,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            },
+            {
+                "meta": {
+                    "locked": false,
+                    "type": "text",
+                    "name": "",
+                    "group": "",
+                    "origin": "default",
+                    "addOrigin": "specificWord"
+                },
+                "attribute": {
+                    "width": 534,
+                    "height": 355,
+                    "text": [
+                        "",
+                        "“变形计”"
+                    ],
+                    "fontSize": 118.7099,
+                    "fontWeight": "normal",
+                    "textAlign": "left",
+                    "lineHeight": 15,
+                    "letterSpacing": 6.9484,
+                    "fontFamily": "zh100hffxft",
+                    "color": {
+                        "r": 74,
+                        "g": 74,
+                        "b": 74,
+                        "a": 1
+                    },
+                    "fontStyle": "italic",
+                    "effect": "4@0",
+                    "effectVariant": {
+                        "layers": [
+                            {
+                                "zindex": 1,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 10,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.071037882352941,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 20,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 0,
+                                    "colors": [
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.532353,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 30,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 74,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 40,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": -0.035518941176471,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.523529,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 29,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "zindex": 50,
+                                "color": {
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
+                                    "a": 0
+                                },
+                                "top": 0,
+                                "left": 0,
+                                "backgroundClip": "text",
+                                "linearGradient": {
+                                    "angle": 180,
+                                    "colors": [
+                                        {
+                                            "position": 0.526471,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 1
+                                            }
+                                        },
+                                        {
+                                            "position": 0.529412,
+                                            "color": {
+                                                "r": 255,
+                                                "g": 255,
+                                                "b": 255,
+                                                "a": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "variableColorPara": [],
+                        "variableSizePara": [
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 1,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0071037882,
+                                    "max": -0.1420757647
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 2,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 3,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": 0.0035518941,
+                                    "max": 0.0710378824
+                                }
+                            },
+                            {
+                                "sizes": [
+                                    {
+                                        "index": 4,
+                                        "key": "left"
+                                    }
+                                ],
+                                "range": {
+                                    "min": -0.0035518941,
+                                    "max": -0.0710378824
+                                }
+                            }
+                        ]
+                    },
+                    "class_id": []
+                },
+                "transform": {
+                    "posX": 454.7771,
+                    "posY": 184.5574,
+                    "rotate": 0,
+                    "alpha": 100,
+                    "zindex": 40,
+                    "horizontalFlip": false,
+                    "verticalFlip": false
+                }
+            }
+        ]
+    ]
+}

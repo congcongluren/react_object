@@ -155,6 +155,10 @@ module.exports = {
       { directory: resolve(__dirname, 'assets'), },
       { directory: resolve(__dirname, 'public'), }
     ],
+    proxy: {
+      '/api': 'http://localhost:4000',
+      pathRewrite: { '^/api': '' },
+    }
   },
   plugins: [
     new HtmlWebpackPlugin({

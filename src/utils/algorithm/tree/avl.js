@@ -44,10 +44,3 @@ export class AVLTree {
     }
 
 }
-
-let t = new AVLTree();
-
-t.insert(3);
-t.insert(2);
-
-console.log(t);
