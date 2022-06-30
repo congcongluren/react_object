@@ -11,7 +11,9 @@ import React from "react";
 // import StudyThree from './page/studyThree';
 // import Grammar from './page/grammar';
 // import StudyFabric from './page/studyFabric';
-import Other from './page/other';
+// import Other from './page/other';
+import Map from './page/map';
+import HummerTest from './page/hammer';
 
 const App = () => {
   return (
@@ -28,7 +30,8 @@ const App = () => {
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
-      <Other/>
+      {/* <Map/> */}
+      <HummerTest/>
     </div>
   )
 }
