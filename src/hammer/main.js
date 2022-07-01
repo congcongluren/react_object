@@ -123,11 +123,12 @@ assign(Hammer, {
   removeEventListeners
 });
 
+export default Hammer;
+
+
 let freeGlobal = (typeof window !== 'undefined' ? window : (typeof self !== 'undefined' ? self : {})); // jshint ignore:line
 freeGlobal.Hammer = Hammer;
 
-
-export default Hammer;
  
 /* jshint ignore:start */
 // if (typeof define === 'function' && define.amd) {

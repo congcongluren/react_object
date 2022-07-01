@@ -230,7 +230,6 @@ export default class Manager {
       handlers[event] = handlers[event] || [];
       handlers[event].push(handler);
     });
-    console.log(handlers);
     return this;
   }
 
