@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-// import Hammer from '../../hammer/main';
-import Hammer from '../../hammer/hammer-line';
+import Hammer from '../../hammer/main';
+// import Hammer from '../../hammer/hammer-line';
 // import Hammer from 'hammerjs';
 import './index.scss';
 
@@ -18,7 +18,6 @@ export default function HummerTest() {
     hammertime.get('doubletap').set({ enable: false });
     hammertime.on('pinchstart', ev => {
       console.log(ev, 777);
-      this.isPinch = !0;
     });
     hammertime.on('tap', ev => {
       console.log(ev, 777);

@@ -27,8 +27,6 @@ export default class Input {
       }
     };
 
-    this.init();
-
   }
   /**
    * @private

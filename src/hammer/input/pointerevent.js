@@ -49,6 +49,7 @@ export default class PointerEventInput extends Input {
     this.evWin = POINTER_WINDOW_EVENTS;
 
     this.store = (this.manager.session.pointerEvents = []);
+    this.init();
   }
 
   /**

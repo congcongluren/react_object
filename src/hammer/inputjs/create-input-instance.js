@@ -16,7 +16,6 @@ export default function createInputInstance(manager) {
   let Type;
   // let inputClass = manager.options.inputClass;
   let { options:{ inputClass } } = manager;
-  debugger
   if (inputClass) {
     Type = inputClass;
   } else if (SUPPORT_POINTER_EVENTS) {
