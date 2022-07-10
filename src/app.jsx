@@ -31,13 +31,10 @@ const App = () => {
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
-<<<<<<< HEAD
       {/* <Other/> */}
-      <BulletView/>
-=======
       {/* <Map/> */}
-      <HummerTest/>
->>>>>>> c7f193d7c649fd6c368e0cfcec68490d29a6126e
+      {/* <HummerTest/> */}
+      <BulletView/>
     </div>
   )
 }
