@@ -6,7 +6,7 @@ export default function index() {
     useEffect(() => {
         axios({
             method: 'post',
-            url: '/api/test',
+            url: '/exportImage',
             // headers: {
             //     'Content-Type': 'application/x-www-form-urlencoded'
             // },

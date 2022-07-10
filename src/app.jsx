@@ -1,7 +1,7 @@
 import React from "react";
 // import { Photo } from "./page/Photo";
 // import StudyCss from './page/studyCss';
-// import StudySvg from './page/studySvg';
+import StudySvg from './page/studySvg';
 // import Position from './page/position';
 // import StudyRegExp from './page/stydyRegExp';
 // import StudySKU from './page/studySKU';
@@ -24,11 +24,11 @@ const App = () => {
       {/* <StudyThree/> */}
       {/* <SkuDemo/> */}
       {/* <StudyCanvas/> */}
-      {/* <StudySvg/> */}
+      <StudySvg/>
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
-      <Other/>
+      {/* <Other/> */}
     </div>
   )
 }
