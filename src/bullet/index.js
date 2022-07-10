@@ -1,1 +1,5 @@
-export * from './comps/core';
+import BulletJs from './comps/core';
+
+export {
+  BulletJs
+}

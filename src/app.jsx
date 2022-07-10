@@ -18,7 +18,7 @@ import BulletView from './page/bullet';
 
 const App = () => {
   return (
-    <div>
+    <>
       {/* <Photo/> */}
       {/* <Position/> */}
       {/* <StudyCss/> */}
@@ -35,7 +35,7 @@ const App = () => {
       {/* <Map/> */}
       {/* <HummerTest/> */}
       <BulletView/>
-    </div>
+    </>
   )
 }
 
