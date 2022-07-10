@@ -12,6 +12,8 @@ import React from "react";
 // import Grammar from './page/grammar';
 // import StudyFabric from './page/studyFabric';
 // import Other from './page/other';
+// import Map from './page/map';
+// import HummerTest from './page/hammer';
 import BulletView from './page/bullet';
 
 const App = () => {
@@ -29,8 +31,13 @@ const App = () => {
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
+<<<<<<< HEAD
       {/* <Other/> */}
       <BulletView/>
+=======
+      {/* <Map/> */}
+      <HummerTest/>
+>>>>>>> c7f193d7c649fd6c368e0cfcec68490d29a6126e
     </div>
   )
 }
