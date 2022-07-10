@@ -1,7 +1,7 @@
 import React from "react";
 // import { Photo } from "./page/Photo";
 // import StudyCss from './page/studyCss';
-import StudySvg from './page/studySvg';
+// import StudySvg from './page/studySvg';
 // import Position from './page/position';
 // import StudyRegExp from './page/stydyRegExp';
 // import StudySKU from './page/studySKU';
@@ -11,7 +11,8 @@ import StudySvg from './page/studySvg';
 // import StudyThree from './page/studyThree';
 // import Grammar from './page/grammar';
 // import StudyFabric from './page/studyFabric';
-import Other from './page/other';
+// import Other from './page/other';
+import BulletView from './page/bullet';
 
 const App = () => {
   return (
@@ -24,11 +25,12 @@ const App = () => {
       {/* <StudyThree/> */}
       {/* <SkuDemo/> */}
       {/* <StudyCanvas/> */}
-      <StudySvg/>
+      {/* <StudySvg/> */}
       {/* <StudyRegExp/> */}
       {/* <Grammar/> */}
       {/* <StudyFabric/> */}
       {/* <Other/> */}
+      <BulletView/>
     </div>
   )
 }
