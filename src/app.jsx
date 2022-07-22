@@ -1,6 +1,6 @@
 import React from "react";
 // import { Photo } from "./page/Photo";
-// import StudyCss from './page/studyCss';
+import StudyCss from './page/studyCss';
 // import StudySvg from './page/studySvg';
 // import Position from './page/position';
 // import StudyRegExp from './page/stydyRegExp';
@@ -14,14 +14,14 @@ import React from "react";
 // import Other from './page/other';
 // import Map from './page/map';
 // import HummerTest from './page/hammer';
-import BulletView from './page/bullet';
+// import BulletView from './page/bullet';
 
 const App = () => {
   return (
     <>
       {/* <Photo/> */}
       {/* <Position/> */}
-      {/* <StudyCss/> */}
+      <StudyCss/>
       {/* <StudySKU/> */}
       {/* <StudyAlgorithm/> */}
       {/* <StudyThree/> */}
@@ -34,7 +34,7 @@ const App = () => {
       {/* <Other/> */}
       {/* <Map/> */}
       {/* <HummerTest/> */}
-      <BulletView/>
+      {/* <BulletView/> */}
     </>
   )
 }
