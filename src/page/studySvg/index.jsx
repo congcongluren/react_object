@@ -4,7 +4,7 @@ export default function StudySvg() {
     // new RegExp()
     return (
         <div className="grid">
-            <svg width="0" height="0">
+            <svg width="750" height="500" viewBox="0 0 750 500" >
                 <defs>
                     <g id="leftalign">
                         <line x1="3" y1="3" x2="48" y2="3"></line>
@@ -61,6 +61,17 @@ export default function StudySvg() {
                     <filter id="Gaussian_Blur">
                         <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
                     </filter>
+                    <g id='xin'>
+                        <path
+                            d="
+                                M 10,30
+                                A 20,20 0,0,1 50,30
+                                A 20,20 0,0,1 90,30
+                                Q 90,60 50,90
+                                Q 10,60 10,30 z
+                            "
+                        />
+                    </g>
                 </defs>
                 {/* <use href="#leftalign" x="100" y="100"></use>
                 <use href="#rightcaret" x="300" y="100"></use>
@@ -68,8 +79,17 @@ export default function StudySvg() {
                 <use href="#alert" x="100" y="200" width="100" height="100"></use>
                 <use href="#play" x="300" y="200" width="100" height="100"></use>
                 <use href="#download" x="500" y="200" width="100" height="100"></use>
-                <use href="#rect2" x="100" y="300" width="100" height="100"></use> */}
-                {/* <use href="#rect2" x="000" y="000" width="400" height="400"></use> */}
+                <use href="#rect2" x="100" y="300" width="100" height="100"></use>
+                <use href="#rect2" x="000" y="000" width="400" height="400"></use> */}
+
+                <path
+                    d="M 10 10 L 50 40 L 100 10 L 500 100"
+                    stroke="blue"
+                    fill="red"
+                >
+                </path>
+
+                {/* <text x='10' y='10' width='100' height='100'>阿斯兰的看法就埃里克森反啊手动阀就啊拉萨地方尽快对</text> */}
             </svg>
         </div>
     )

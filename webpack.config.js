@@ -32,7 +32,7 @@ module.exports = {
     // test:'./src/test.js',
   },
   output: {
-    filename: "js/main.js",
+    filename: "js/[name].[contenthash].js",
     path: resolve(__dirname, "dist"),
     clean: true,
   },
@@ -41,7 +41,8 @@ module.exports = {
     alias: {
       "@": resolve(__dirname, 'src/'),
       "&": resolve(__dirname, 'assets'),
-      "~": resolve(__dirname, 'src/utils')
+      "~": resolve(__dirname, 'src/utils'),
+      "@assets": resolve(__dirname, 'assets')
     }
   },
   devtool: "inline-source-map",
@@ -159,7 +160,7 @@ module.exports = {
     proxy: {
       '/exportImage': {
         target: 'http://127.0.0.1:4000/',
-        changeOrigin:true,
+        changeOrigin: true,
       }
     }
   },
@@ -182,5 +183,8 @@ module.exports = {
       dependenciesCount: 10000,
       percentBy: 'entries',
     }),
-  ]
+  ],
+  optimization: {
+    runtimeChunk: 'single',
+  }
 };
